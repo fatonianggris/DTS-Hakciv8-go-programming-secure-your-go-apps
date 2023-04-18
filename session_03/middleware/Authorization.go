@@ -1,8 +1,8 @@
 package middleware
 
 import (
+	"go-programming-secure-your-go-apps/session_03/helper"
 	"net/http"
-	"product/helper"
 
 	"github.com/gin-gonic/gin"
 )
